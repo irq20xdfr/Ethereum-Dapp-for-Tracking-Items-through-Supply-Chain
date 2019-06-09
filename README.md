@@ -70,9 +70,13 @@ Trx Hash
 0xb64b88a4b3d2f53b486e39106771d9dcb177bc44b0b0c97fa294b825c13ee130
 ```
 
-Contract Address
+Contract Creator
 ```
 0x27D8D15CbC94527cAdf5eC14B69519aE23288B95
+```
+Contract Address
+```
+0xf60d0bdE39256717f275164ADae27cb8836A2c3F
 ```
 
 ![Screenshot](contract.PNG)
