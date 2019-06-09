@@ -32,3 +32,55 @@ Ethereum Dapp for dress design supply chain, this contract allows the creation o
 ## Class Diagram
 
 ![Screenshot](UML/UML_Class_Diagram_for_Online_Dress_Design_Supply_Chain.png)
+
+# Installation
+### Install packages
+```
+npm install
+```
+
+### Run ganache
+```
+ganache-cli -m "spirit supply whale amount human item harsh scare congress discover talent hamster"
+```
+
+### Compile contracts
+```
+truffle compile
+```
+
+### Test contracts
+```
+truffle migrate
+```
+
+### Migrate contracts
+```
+truffle migrate
+```
+
+### Run UI
+```
+npm run dev
+```
+
+# Screenshoots
+![Screenshot](Screenshoots/ss1.png)
+
+![Screenshot](Screenshoots/ss2.png)
+
+![Screenshot](Screenshoots/ss3.png)
+
+# Trx Hash and Contract address
+
+Trx Hash
+```
+0xb64b88a4b3d2f53b486e39106771d9dcb177bc44b0b0c97fa294b825c13ee130
+```
+
+Contract Address
+```
+0x27D8D15CbC94527cAdf5eC14B69519aE23288B95
+```
+
+![Screenshot](contract.png)
