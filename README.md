@@ -15,6 +15,15 @@ Ethereum Dapp for dress design supply chain, this contract allows the creation o
 * Delivered
 * Received
 
+# Frameworks and technologies used
+* Ethereum
+* Rinkeby Network
+* Solidity 5
+* Ganache CLI
+* Truffle
+* OpenZeppelin
+* Mocha JS
+* NodeJS
 
 # Installation
 ### Install packages
