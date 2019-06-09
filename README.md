@@ -19,6 +19,16 @@ Ethereum Dapp for dress design supply chain, this contract allows the creation o
 
 ## Activity Diagram
 
-![alt text]("https://raw.githubusercontent.com/irq20xdfr/Ethereum-Dapp-for-Tracking-Items-through-Supply-Chain/master/UML/Activity_Diagram_for_Online_Dress_Design_Supply_Chain.png")
-
 ![Screenshot](UML/Activity_Diagram_for_Online_Dress_Design_Supply_Chain.png)
+
+## Sequence Diagram
+
+![Screenshot](UML/Sequence_Diagram_for_Online_Dress_Design_Supply_Chain.png)
+
+## State Diagram
+
+![Screenshot](UML/State_Diagram_for_Online_Dress_Design_Supply_Chain.png)
+
+## Class Diagram
+
+![Screenshot](UML/UML_Class_Diagram_for_Online_Dress_Design_Supply_Chain.png)
