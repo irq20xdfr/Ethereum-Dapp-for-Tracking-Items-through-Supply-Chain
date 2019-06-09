@@ -65,11 +65,11 @@ npm run dev
 ```
 
 # Screenshoots
-![Screenshot](Screenshoots/ss1.png)
+![Screenshot](Screenshoots/ss1.PNG)
 
-![Screenshot](Screenshoots/ss2.png)
+![Screenshot](Screenshoots/ss2.PNG)
 
-![Screenshot](Screenshoots/ss3.png)
+![Screenshot](Screenshoots/ss3.PNG)
 
 # Trx Hash and Contract address
 
@@ -83,4 +83,4 @@ Contract Address
 0x27D8D15CbC94527cAdf5eC14B69519aE23288B95
 ```
 
-![Screenshot](contract.png)
+![Screenshot](contract.PNG)
